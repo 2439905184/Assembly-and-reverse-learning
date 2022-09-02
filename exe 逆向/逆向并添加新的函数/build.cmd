@@ -1,0 +1,1 @@
+gcc -S origin.c -o origin.s
