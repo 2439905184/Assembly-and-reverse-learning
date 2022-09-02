@@ -1,0 +1,1 @@
+gcc MessageBox1.c -o origin.exe
