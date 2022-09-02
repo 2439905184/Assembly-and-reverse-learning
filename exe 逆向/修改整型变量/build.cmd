@@ -1,0 +1,1 @@
+gcc origin.c -o origin.exe
