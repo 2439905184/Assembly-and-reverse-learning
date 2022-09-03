@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include "data.h"
+
 int main()
 {
 	FILE *file = fopen("data.bin","wb");
