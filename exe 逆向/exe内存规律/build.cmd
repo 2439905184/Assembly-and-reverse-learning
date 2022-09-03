@@ -1,0 +1,1 @@
+gcc global.c -o global.exe
